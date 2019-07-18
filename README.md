@@ -1,2 +1,5 @@
-# Human-Posture-Detection
-Human Posture Detection in images and videos 
+# Human Posture Detection
+
+#### Target :
+- [X] Image
+- [ ] Video
